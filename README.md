@@ -6,7 +6,7 @@ AI-controlled robotic hand. It tracks human gestures via webcam using Python and
 
 ## Node-RED Control Dashboard
 A resposive UI to monitor the physical robot and the Wi-Fi signal strength in real time.
-<img width="1440" height="900" alt="Screenshot 2026-02-26 alle 02 51 50" src="https://github.com/user-attachments/assets/2a0bd05d-bc4b-45bd-a72a-fa41ebacc630" />
+<img width="1000" height="700" alt="Screenshot 2026-02-26 alle 02 51 50" src="https://github.com/user-attachments/assets/2a0bd05d-bc4b-45bd-a72a-fa41ebacc630" />
 
 
 ## Features
