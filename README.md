@@ -2,7 +2,8 @@
 AI-controlled robotic hand. It tracks human gestures via webcam using Python and MediaPipe, transmitting commands to an ESP32 via MQTT to move the fingers in real-time. Features a Node-RED dashboard for live telemetry and Digital Twin monitoring.
 
 ## Demo
-![Uploading GIF-2026-02-26-12-38-52.gif…]()
+![GIF-2026-02-26-12-38-52](https://github.com/user-attachments/assets/bb152704-9543-40b5-a1cb-686c87379a30)
+
 
 
 
