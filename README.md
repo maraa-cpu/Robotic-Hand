@@ -4,9 +4,6 @@ AI-controlled robotic hand. It tracks human gestures via webcam using Python and
 ## Demo
 ![GIF-2026-02-26-02-41-30](https://github.com/user-attachments/assets/438bf503-cd2d-4dcf-898b-97670dd7c455)
 
-## Node-RED Control Dashboard
-A resposive UI to monitor the physical robot and the Wi-Fi signal strength in real time.
-<img width="1000" height="700" alt="Screenshot 2026-02-26 alle 02 51 50" src="https://github.com/user-attachments/assets/2a0bd05d-bc4b-45bd-a72a-fa41ebacc630" />
 
 
 ## Features
@@ -26,7 +23,13 @@ The project runs on an ESP32 microcontroller. Here is the wiring configuration f
 | Ring (Anulare) | GPIO 12 | Servo 4 |
 | Pinky (Mignolo) | GPIO 13 | Servo 5 |
 
+## Node-RED Control Dashboard
+A resposive UI to monitor the physical robot and the Wi-Fi signal strength in real time.
+
+<img width="1353" height="617" alt="Screenshot 2026-02-26 alle 02 51 50" src="https://github.com/user-attachments/assets/9bcbaf28-2f3e-4236-987f-379333eed0ff" />
+
 ## Software Stack
 * **Microcontroller:** MicroPython, `umqttsimple`
 * **Computer Vision:** Python 3, OpenCV, MediaPipe
 * **Networking & IoT:** Mosquitto MQTT Broker, Node-RED
+
