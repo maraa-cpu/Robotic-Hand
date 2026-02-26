@@ -4,6 +4,11 @@ AI-controlled robotic hand. It tracks human gestures via webcam using Python and
 ## Demo
 ![GIF-2026-02-26-02-41-30](https://github.com/user-attachments/assets/438bf503-cd2d-4dcf-898b-97670dd7c455)
 
+## Node-RED Control Dashboard
+A resposive UI to monitor the physical robot and the Wi-Fi signal strength in real time.
+<img width="1440" height="900" alt="Screenshot 2026-02-26 alle 02 51 50" src="https://github.com/user-attachments/assets/2a0bd05d-bc4b-45bd-a72a-fa41ebacc630" />
+
+
 ## Features
 * **Real-Time Hand Tracking:** Uses Google MediaPipe to map 21 3D hand landmarks at 30 FPS.
 * **Low-Latency Communication:** Utilizes the MQTT protocol for instant data transmission between the host Mac and the ESP32.
